@@ -1,6 +1,6 @@
 # Maritime Ship Simulation
 A comprehensive, multi-module maritime ship simulation system developed as a graduation project. This simulator features realistic hydrodynamics, a full-featured instructor control station, topological radar tracking, and high-fidelity visual environments.
-![Navisim Icon.](./docs/navisim-icon.png)
+![Navisim Icon.](./docs/navisim-icon.jpeg)
 # System Architecture & Modules
 This project is divided into four primary modules that operate concurrently. The system utilizes a central Message Broker to route telemetry and state data across the network, facilitating communication between the user interfaces and the Unreal Engine physics/visual environment.
 ## 1. Message Broker (Python)
