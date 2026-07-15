@@ -60,4 +60,4 @@ This project was made possible through the integration of several powerful frame
 ### Physics & Simulation:
 * [**pymaneuvering**:](https://github.com/nikpau/pymaneuvering) Utilized within the Python Message Broker to calculate the core hydrodynamic state and vessel physics (surge, sway, yaw rate).
 ### Visual Assets & Plugins:
-* [**Waterline PRO 6:**:](https://www.fab.com/listings/0c1fc983-db84-4df3-b623-03db76d552c6?lang=en) This project relies on the Waterline PRO 6 plugin for Unreal Engine to drive buoyancy, water visuals, and weather-impacted hydrodynamics. (Note: Asset files are omitted from this repository per licensing agreements).
+* [**Waterline PRO 6:**](https://www.fab.com/listings/0c1fc983-db84-4df3-b623-03db76d552c6?lang=en) This project relies on the Waterline PRO 6 plugin for Unreal Engine to drive buoyancy, water visuals, and weather-impacted hydrodynamics. (Note: Asset files are omitted from this repository per licensing agreements).
