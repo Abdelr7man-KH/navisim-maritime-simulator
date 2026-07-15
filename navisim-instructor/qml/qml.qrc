@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>Display_s57_chartForm.qml</file>
+        <file>components/MainToolbar.qml</file>
+        <file>components/SidebarButton.qml</file>
+        <file>components/SimulationView.qml</file>
+        <file>components/TabButton.qml</file>
+        <file>components/TopBar.qml</file>
+        <file>controls/MapController.qml</file>
+        <file>controls/PanelManager.qml</file>
+        <file>panels/EnvironmentPanel.qml</file>
+        <file>panels/LeftPanel.qml</file>
+        <file>panels/RightPanel.qml</file>
+        <file>components/NetworkBridge.qml</file>
+        <file>panels/VesselProfileEditor.qml</file>
+        <file>panels/WeatherWindow.qml</file>
+        <file>panels/AtmosphereWindow.qml</file>
+        <file>components/StatusBar.qml</file>
+        <file>panels/ShipTrackingEditor.qml</file>
+        <file>panels/CurrentWindow.qml</file>
+        <file>panels/TimeWindow.qml</file>
+        <file>panels/WindWindow.qml</file>
+        <file>panels/SeabedWindow.qml</file>
+        <file>panels/VisualsWindow.qml</file>
+    </qresource>
+</RCC>

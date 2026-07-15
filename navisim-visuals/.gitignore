@@ -1,0 +1,8 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.pdb
+*.obj
+
+Content/Waterline/
